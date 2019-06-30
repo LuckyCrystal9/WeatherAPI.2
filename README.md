@@ -7,3 +7,5 @@ Weather API includes:
 - Weather Icon 
 - Description of Weather
 - Option to change from F to C (click the degree sign)
+
+***Note: Needs to be run in a code editor (such as VSCode or NotePad++)***
